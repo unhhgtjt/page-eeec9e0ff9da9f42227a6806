@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5b40a0c847d8a7ddbb839e1e",
+  "owner": "unhhgtjt",
+  "repo": "page-eeec9e0ff9da9f42227a6806",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eeec9e0ff9da9f42227a6806",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "079b008343b6f2fc52504c6575998fcb7855e5d953df7e1198d7ac37f63ca0af",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点提供专业 Clash 节点加速服务，多种流量套餐可选，支持多设备在线，助力科学上网和流媒体解锁。立即查看套餐详情并下载客户端体验！",
+          "AI_DESCRIPTION": "clash节点提供专业 Clash 节点加速服务，多种流量套餐可选，支持多设备在线，助力科学上网和流媒体解锁。立即查看套餐详情并下载客户端体验！"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.7;color:#333;background:#f8f4ed;margin:0;padding:0}\nh1{font-size:2.8rem;text-align:center;color:#2e7d32;margin:2rem 0 1rem}\n.hero{background:linear-gradient(135deg,#2e7d32,#4a9c4a);color:#fff;padding:3rem 1rem;text-align:center}\n.hero p{font-size:1.4rem;margin-bottom:1.5rem}\n.btn{display:inline-block;padding:12px 28px;background:#2e7d32;color:#fff;text-decoration:none;border-radius:30px;font-size:1.1rem;transition:all .3s ease}\n.btn:hover{transform:scale(1.05)}\n.plans-section{max-width:1200px;margin:0 auto;padding:3rem 1rem}\n.plans-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:2rem}\n.card{background:#fff;border-radius:12px;box-shadow:0 5px 15px rgba(0,0,0,.1);padding:2rem 1.5rem;text-align:center;transition:all .3s ease}\n.card:hover{transform:translateY(-8px);box-shadow:0 10px 25px rgba(0,0,0,.15)}\n.card.featured{border:3px solid #2e7d32;position:relative}\n.card.featured::before{content:'推荐';position:absolute;top:-12px;left:50%;transform:translateX(-50%);background:#2e7d32;color:#fff;padding:4px 20px;border-radius:20px;font-size:.9rem}\n.card h3{font-size:1.8rem;margin:0 0 1rem;color:#2e7d32}\n.price{font-size:2rem;font-weight:bold;color:#333;margin:.5rem 0}\n.annual{color:#666;font-size:1rem;margin-bottom:1.5rem}\nul{list-style:none;padding:0;margin:0 0 2rem}\nul li{padding:.75rem 0;border-bottom:1px solid #eee;text-align:left}\n.usage-section{max-width:800px;margin:0 auto;padding:2rem 1rem}\n.usage-section ol{line-height:1.8}\n.faq-section{max-width:800px;margin:0 auto;padding:2rem}\ndetails{background:#fff;margin-bottom:1rem;border-radius:8px;overflow:hidden}\nsummary{padding:1rem 1.5rem;font-weight:bold;cursor:pointer;background:#f8f4ed}\nsummary:hover{background:#f0e9de}\nfooter{background:#2e7d32;color:#fff;padding:3rem 1rem;text-align:center}\n.links a{color:#fff;margin:0 1rem;text-decoration:none}\n@media(max-width:768px){h1{font-size:2.2rem}.hero p{font-size:1.3rem}.plans-grid{grid-template-columns:1fr}}\n</style>\n\n\n<header>\n<nav>\n<a href=\"#\">clash节点</a>\n<div>\n<a href=\"#\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n</header>\n<main>\n<h1>clash节点</h1>\n<section class=\"hero\">\n<p>全球优质 Clash 节点，高速稳定加速服务</p>\n<a href=\"#plans\" class=\"btn\">查看套餐</a>\n</section>\n<section id=\"plans\" class=\"plans-section\">\n<h2>选择适合您的套餐</h2>\n<div class=\"plans-grid\">\n<div class=\"card\">\n<h3>基础版</h3>\n<p class=\"price\">¥15/月</p>\n<p class=\"annual\">按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n<div class=\"card featured\">\n<h3>旗舰版</h3>\n<p class=\"price\">¥35/月</p>\n<p class=\"annual\">按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n<div class=\"card\">\n<h3>团队版</h3>\n<p class=\"price\">¥85/月</p>\n<p class=\"annual\">按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<a href=\"#\" class=\"btn\">立即订阅</a>\n</div>\n</div>\n</section>\n<section class=\"use-cases\">\n<h2>使用场景</h2>\n<ul>\n<li>全球科学上网</li>\n<li>流媒体平台解锁</li>\n<li>游戏加速优化</li>\n<li>企业专线服务</li>\n</ul>\n</section>\n<section id=\"usage\" class=\"usage-section\">\n<h2>操作说明</h2>\n<ol>\n<li>选择套餐并完成在线支付</li>\n<li>登录个人中心获取订阅链接</li>\n<li>下载官方 Clash 客户端</li>\n<li>导入订阅链接并连接节点</li>\n</ol>\n</section>\n<section id=\"faq\" class=\"faq-section\">\n<h2>常见问题 FAQ</h2>\n<details>\n<summary>什么是 Clash 节点？</summary>\n<p>Clash 节点是指支持 Clash 协议的代理服务器节点，通过订阅可实现科学上网、流量加速和内容解锁。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>基础版适合个人日常使用，旗舰版提供全面解锁与优化，团队版适合企业大规模部署。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>支持 Windows、macOS、Android、iOS 等主流设备，同时在线数量以套餐为准。</p>\n</details>\n<details>\n<summary>节点质量如何？</summary>\n<p>我们严格筛选全球优质节点，提供高速稳定线路，日常使用可靠。</p>\n</details>\n<details>\n<summary>如何获取订阅链接？</summary>\n<p>订阅成功后，在账号中心即可查看和管理订阅链接。</p>\n</details>\n<details>\n<summary>支持客户端下载吗？</summary>\n<p>官网提供官方 Clash 客户端下载，适用于各主流系统。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 clash节点 版权所有</p>\n<div class=\"links\">\n<a href=\"#\">友情链接</a>\n<a href=\"#\">广告位</a>\n</div>\n<div>\n官方下载：<a href=\"#\">客户端下载</a>\n</div>\n</footer>\n\n",
+          "hash": "4f1d8e9ed736189f06f32da20a99a8e22eb9fb4e96f504744aabdc836caf1820",
+          "seo": {
+            "title": "clash节点 - Clash节点加速服务 订阅下载 客户端",
+            "keywords": "clash节点, Clash 节点, 节点加速, VPN客户端, 机场订阅, 客户端下载, 节点服务",
+            "description": "clash节点提供专业 Clash 节点加速服务，多种流量套餐可选，支持多设备在线，助力科学上网和流媒体解锁。立即查看套餐详情并下载客户端体验！"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfknj.cn",
+    "host": "p-f262abd8b2.qfknj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ebbbc3b64439e442e22b012d15555a0f2e3cb48b8d077fdbf07ce2eb7f1710f1",
+    "sitemap.xml": "5462a8f9a24f65681028d87ac8045d12926c417dc92e88b5620a3c09325f9fc3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ed851d136f59fbda6791819a6e542246264685446aac1f5dbe47607937d152be",
+    "robots.txt": "3c45740a1085fb139ca3d033a7e7827bb8308fcb0192bb4458ae9d51dc272f1e",
+    "560be1a2b118a64eb1a96acbbd06cc14.txt": "729bbde6b71db5ef1394c968027cd567fca4d9fc20a0730006f4a5cd8a428dbf"
+  },
+  "revision": "9fbe66a0843bb5bd355328ee8a3ca8a7c595ff00baad67b5b6de6291ec6f9993"
+}
